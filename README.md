@@ -1,2 +1,0 @@
-obtenemos lo mismo porque un puntero almacena la direccion de una variable, en este caso contiene la direccion de memoria de la variable numero, que es lo mismo que nos piden en el punto 3.
-en el punto 4 obtenemos la direccion de memoria del puntero, no es lo mismo que los anteriores porque estamos mostrando la direccion de memoria del puntero, no de la variable a la que apunta.
