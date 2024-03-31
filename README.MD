@@ -1,4 +1,4 @@
-# **PUNTO1**
+# **PUNTO2**
 ## **¿QUE ES UN ARCHIVO .GITIGNORE?**
 es un archivo de texto que indica a git que archivos y carpetas debe ignorar
 ### **¿PORQUE ES CONVENIENTE INCLUIRLO?**
